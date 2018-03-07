@@ -5,4 +5,7 @@ doing this tutorial because I give a git! tech infuriates me when it removes hum
 </p>
 heck, let's put in a second edit before merging, so the feel of a branch is more relatable. cuz the reality of a single-edit branch is unlikely, and this is a basic hello-world exercise.
 </p>
+mmm.... one more? just for funsies??! SURE!
+</p>
+</p>
 over n out
